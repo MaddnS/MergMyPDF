@@ -1,4 +1,4 @@
-# MergMyPDF
+# MergeMyPDF
 Simple PDF Merger With DragAndDrop
 
 Created with python 3.11
