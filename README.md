@@ -13,7 +13,7 @@ The you can enter "pyinstaller --onefile main.pyw" in your command line to build
 Otherwise you can simply open the main.pyw file with your command prompt or simply double click it.
 
 
-I recommend using a virtual environment witch all needed packages installed.
+I recommend using a virtual environment with all needed packages installed.
 You can create an Virtual Environment with following command:
 
 py -m venv <name of your environment>
